@@ -1,0 +1,7 @@
+package jacktelop;
+
+struct Twist_t 
+{
+    Vector3_t linear;
+    Vector3_t angular;
+}

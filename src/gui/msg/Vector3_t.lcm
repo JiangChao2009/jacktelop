@@ -1,0 +1,8 @@
+package jacktelop;
+
+struct Vector3_t
+{
+	double x;
+	double y;
+	double z;
+}
