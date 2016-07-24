@@ -12,7 +12,7 @@ Simple telop application for TurtleBot
 - ./build/bin/jacktelop-gui-demo (on client computer)
 - ./build/bin/jacktelop-listener-demo (on TurtleBot computer)
 
-## Dependences:
+## Dependencies:
 - LCM
 - ROS
 - CMake
